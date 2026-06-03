@@ -96,9 +96,3 @@ README.md                   # Este arquivo
 - Fabio Pena Vieira - RM570441
 
 
----
-
-## 🔗 Links
-
-- **Repositório GitHub:** [link aqui]
-- **Vídeo YouTube:** [link aqui]
